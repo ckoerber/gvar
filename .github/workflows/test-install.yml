@@ -1,6 +1,4 @@
 name: Test install
-
-name: GitHub Actions Demo
 on: [push]
 jobs:
     test-install:
